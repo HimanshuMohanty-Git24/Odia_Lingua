@@ -1,5 +1,6 @@
 # Odia Lingua 🐚🤖
-![OdiaLingua ](https://github.com/HimanshuMohanty-Git24/Odia_Lingua/assets/94133298/c47f3775-f4e7-4b44-8c32-80b68bf792aa)
+![OdiaLingua2](https://github.com/HimanshuMohanty-Git24/Odia_Lingua/assets/94133298/5ddfab1c-95b7-4560-9e89-ed66bc466f47)
+
 
 
 Jay Jagannath 🙏🕉️, Odia Lingua is an end-to-end generative AI chatbot for the Odia language. It utilizes the Anthropc API for chat generation and features a Text-to-Speech (TTS) functionality for Odia using the Facebook/mms-tts-ory API.
