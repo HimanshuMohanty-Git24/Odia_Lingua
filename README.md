@@ -31,7 +31,7 @@ To set up Odia Lingua locally, follow these steps:
    ANTHROPIC_API_KEY = "<Your-anthropic-api-key>"
    HUGGINGFACE_API_KEY = "<Your-huggingface-api-key>"
    ```
-   To get the api's go to the respective website and get your api key's
+   To get the api's go to the respective website and get your api key's Anthropic: [Link](https://console.anthropic.com/settings/keys) , Huggingface: [Link](https://huggingface.co/settings/tokens)
 ### Requirements:
 Ensure you have the following dependencies installed:
 - streamlit
