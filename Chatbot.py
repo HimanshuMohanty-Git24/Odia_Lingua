@@ -6,6 +6,8 @@ from io import BytesIO
 from langchain.utilities import GoogleSearchAPIWrapper
 
 API_URL = "https://api-inference.huggingface.co/models/facebook/mms-tts-ory"
+#change the title of  streamlit app
+st.set_page_config(page_title="Odia Lingua 🐚🤖", page_icon="🐚", layout="centered", initial_sidebar_state="collapsed")
 
 def query(payload):
     headers = {"Authorization": f"Bearer {st.secrets['HUGGINGFACE_API_KEY']}"}
