@@ -6,3 +6,4 @@ langchain
 google-search-results
 pip
 langchain-community
+google-api-python-client
