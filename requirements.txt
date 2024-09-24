@@ -1,3 +1,6 @@
 streamlit
-anthropic
+groq
 python-dotenv
+requests
+langchain
+google-search-results
