@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ## Usage:
 To run the application locally, execute the following command:
 ```
-streamlit run Chatbot.py
+streamlit run Home.py
 ```
 
 ## Contributing:
